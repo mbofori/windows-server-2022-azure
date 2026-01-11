@@ -40,7 +40,7 @@ The deployment follows a simple and practical cloud architecture:
 ---
 
 ## Architecture Diagram
-*(Diagram will be added here)*
+![Windows Server 2022 on Azure Architecture](screenshots/architecture-diagram.png)
 
 ---
 
